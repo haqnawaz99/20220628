@@ -1,0 +1,19 @@
+.lightblue{
+    background-color: lightblue;
+}
+.myheading{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'jameel noori nastaleeq';
+}
+.myparagraph{
+    font-family: 'jameel noori nastaleeq';
+    padding: 10px;
+}
+.myimage{
+    border-image: 10px;
+}
+.mybutton{
+    font-size: 30px;
+    background-color: aqua;
+}
